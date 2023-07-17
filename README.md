@@ -3,6 +3,6 @@
 ### [Dataset-1 (Kaggle)](https://www.kaggle.com/datasets/llui85/tokyo-2021-olympics-complete-grouped-by-type)
 ### [Dataset-2 (GFG)](https://github.com/AshishJangra27/GFG-Hackathon)
 
- To enhance the Olympic experience, provide valuable insights, promote engagement, &amp; address specific challenges related to the Olympic Games.
+ To enhance the Olympic experience, provide valuable insights, promote engagement, &amp; address specific challenges related to the Olympic Games using data science, machine learning & data analysis.
  
 
