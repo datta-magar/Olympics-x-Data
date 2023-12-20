@@ -11,4 +11,5 @@
  2. Simply clone the repository
  3. Run the .py file
  4. Start working on it
+ 5. For further guidance refer documentation
 
