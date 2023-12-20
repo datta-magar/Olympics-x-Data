@@ -7,9 +7,10 @@
 
  For Cotributers
  Steps to get up and running project
- 1. Downnload the dataset
+ 1. Download the dataset
  2. Simply clone the repository
- 3. Run the .py file
- 4. Start working on it
- 5. For further guidance refer documentation
+ 3. Get the code on your PC
+ 4. Run the .py file
+ 5. Start working on it
+ 6. For further guidance refer documentation
 
