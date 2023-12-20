@@ -4,5 +4,11 @@
 ### [Dataset-2 (GFG)](https://github.com/AshishJangra27/GFG-Hackathon)
 
  To enhance the Olympic experience, provide valuable insights, promote engagement, &amp; address specific challenges related to the Olympic Games using data science, machine learning & data analysis.
- 
+
+ For Cotributers
+ Steps to get up and running project
+ 1. Downnload the dataset
+ 2. Simply clone the repository
+ 3. Run the .py file
+ 4. Start working on it
 
